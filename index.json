@@ -1,5 +1,15 @@
 {
- "updated": 1794080483094,
+ "updated": 1794081347340,
  "videos": [],
- "channels": {}
+ "channels": {
+  "ZZ Testkanal": {
+   "name": "ZZ Testkanal",
+   "avatar": null,
+   "banner": null,
+   "about": "",
+   "links": [],
+   "joined": null,
+   "videos": 0
+  }
+ }
 }
