@@ -1,5 +1,15 @@
 {
- "updated": 1794081614940,
+ "updated": 1794084088559,
  "videos": [],
- "channels": {}
+ "channels": {
+  "Nyxel": {
+   "name": "Nyxel",
+   "avatar": null,
+   "banner": null,
+   "about": "",
+   "links": [],
+   "joined": null,
+   "videos": 0
+  }
+ }
 }
