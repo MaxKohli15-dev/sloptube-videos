@@ -1,27 +1,5 @@
 {
- "updated": 1794081358202,
- "videos": [
-  {
-   "path": "2026-11-07/ZZ Testkanal/Test.mp4",
-   "date": "2026-11-07",
-   "channel": "ZZ Testkanal",
-   "title": "Test",
-   "thumb": null,
-   "desc": "",
-   "size": 3000,
-   "added": 1794081354792.4956
-  }
- ],
- "channels": {
-  "ZZ Testkanal": {
-   "name": "ZZ Testkanal",
-   "avatar": null,
-   "banner": null,
-   "about": "",
-   "links": [],
-   "joined": "2026-11-07",
-   "videos": 1,
-   "created": "2026-11-07"
-  }
- }
+ "updated": 1794081614940,
+ "videos": [],
+ "channels": {}
 }
