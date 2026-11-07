@@ -1,6 +1,17 @@
 {
- "updated": 1794084088559,
- "videos": [],
+ "updated": 1794084108304,
+ "videos": [
+  {
+   "path": "2026-11-07/Nyxel/How to upload to github.mp4",
+   "date": "2026-11-07",
+   "channel": "Nyxel",
+   "title": "How to upload to github",
+   "thumb": null,
+   "desc": "",
+   "size": 14352786,
+   "added": 1794084104790.6646
+  }
+ ],
  "channels": {
   "Nyxel": {
    "name": "Nyxel",
@@ -8,8 +19,9 @@
    "banner": null,
    "about": "",
    "links": [],
-   "joined": null,
-   "videos": 0
+   "joined": "2026-11-07",
+   "videos": 1,
+   "created": "2026-11-07"
   }
  }
 }
