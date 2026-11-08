@@ -1,6 +1,16 @@
 {
- "updated": 1794084125335,
+ "updated": 1794128646509,
  "videos": [
+  {
+   "path": "2026-11-08/ZZ APItest/Alt.mp4",
+   "date": "2026-11-08",
+   "channel": "ZZ APItest",
+   "title": "Alt",
+   "thumb": null,
+   "desc": "Hallo",
+   "size": 3000,
+   "added": 1794128642476.0115
+  },
   {
    "path": "2026-11-07/Nyxel/How to upload to github.mp4",
    "date": "2026-11-07",
@@ -9,7 +19,7 @@
    "thumb": "2026-11-07/Nyxel/How to upload to github.jpg",
    "desc": "",
    "size": 14352786,
-   "added": 1794084120341.504
+   "added": 1794128627292.6267
   }
  ],
  "channels": {
@@ -22,6 +32,26 @@
    "joined": "2026-11-07",
    "videos": 1,
    "created": "2026-11-07"
+  },
+  "ZZ APItest": {
+   "name": "ZZ APItest",
+   "avatar": null,
+   "banner": null,
+   "about": "",
+   "links": [],
+   "joined": "2026-11-08",
+   "videos": 1,
+   "created": "2026-11-08"
+  },
+  "ZZ Studiotest": {
+   "name": "ZZ Studiotest",
+   "avatar": null,
+   "banner": null,
+   "about": "",
+   "links": [],
+   "joined": "2026-11-08",
+   "videos": 0,
+   "created": "2026-11-08"
   }
  }
 }
