@@ -1,6 +1,16 @@
 {
- "updated": 1794128748942,
+ "updated": 1794128775048,
  "videos": [
+  {
+   "path": "2026-11-08/Nyxel/Modforge ai Promp.mp4",
+   "date": "2026-11-08",
+   "channel": "Nyxel",
+   "title": "Modforge ai Promp",
+   "thumb": "2026-11-08/Nyxel/Modforge ai Promp.jpg",
+   "desc": "",
+   "size": 21596097,
+   "added": 1794128760559.5745
+  },
   {
    "path": "2026-11-07/Nyxel/How to upload to github.mp4",
    "date": "2026-11-07",
@@ -9,7 +19,7 @@
    "thumb": "2026-11-07/Nyxel/How to upload to github.jpg",
    "desc": "",
    "size": 14352786,
-   "added": 1794128734129.181
+   "added": 1794128760527.5745
   }
  ],
  "channels": {
@@ -20,7 +30,7 @@
    "about": "",
    "links": [],
    "joined": "2026-11-07",
-   "videos": 1,
+   "videos": 2,
    "created": "2026-11-07"
   }
  }
